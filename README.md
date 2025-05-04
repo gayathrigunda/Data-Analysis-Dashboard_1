@@ -29,3 +29,21 @@ To analyze Meesho e-commerce order data to track performance metrics such as tot
 ## Dashboard 
 
 ![Dashboard_image](https://github.com/user-attachments/assets/351ad897-19e3-44e4-a36d-d26e384e7184)
+
+## Project Insight 
+
+- August saw the highest spike in orders, indicating a possible seasonal trend or successful campaign.
+- More than 55% of delivered orders were returned, pointing to major post-purchase issues.
+- "PARTY WEAR LOOK HEAVY EMBROIDERY AND 5mm SEQUINS WORK GOWN WITH DUPATTA" was the top-selling product, generating the most revenue alone.
+- Revenue is concentrated in a few products, with others contributing very little.
+- Uttar Pradesh had the highest number of orders, followed by Tamil Nadu and Kerala.
+- Delivered orders accounted for only 50 out of 139 total, while returns and cancellations made up the rest.
+- High return volumes indicate issues with quality, fit, or customer satisfaction.
+- Cancelled orders were almost as frequent as delivered ones, suggesting buyer hesitation or shipping issues.
+- States like Odisha and West Bengal also showed decent engagement, worth targeting further.
+- Revenue and order volumes shift monthly, with a huge peak in August and near-zero in other months.
+
+## Final Conclusion 
+
+The analysis reveals that August had a significant spike in orders, indicating a successful campaign or seasonal trend. While most orders were successfully delivered, a considerable portion (over 77%) of returns came from delivered items, suggesting potential quality or expectation issues. Revenue is heavily concentrated among a few top-selling products, while some products show high return rates, needing further review. Gujarat leads in order volume, but there is scope to expand into underrepresented states. The dashboard provides clear visibility into order trends, product performance, regional activity, and return behavior—enabling data-driven decisions to optimize logistics, marketing strategies, and product quality.
+
