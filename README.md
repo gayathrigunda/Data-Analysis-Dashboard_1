@@ -26,3 +26,6 @@ To analyze Meesho e-commerce order data to track performance metrics such as tot
 - Exported cleaned data to Excel for reporting and dashboard creation.
 - Built an interactive Excel dashboard to present insights effectively.
 
+## Dashboard 
+
+![Dashboard_image](https://github.com/user-attachments/assets/351ad897-19e3-44e4-a36d-d26e384e7184)
