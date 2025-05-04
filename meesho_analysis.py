@@ -1,4 +1,5 @@
 import pandas as pd 
+#step1: Download the dataset
 #step2: load the data 
 orders_df=pd.read_csv('orders.csv')
 credits_df=pd.read_csv('returns.csv')
