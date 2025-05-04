@@ -15,3 +15,14 @@ To analyze Meesho e-commerce order data to track performance metrics such as tot
 - How do Delivered, Cancelled, and Returned orders compare-and are any of thm unusually high?
 - What are the top reasons for returns, and are certain products returned more often?
   
+- Dashboard Interaction <a href="Dashboard_image.jpg">View Dashboard</a>
+
+## Process
+- Imported datasets into Python using pandas.
+- Verified and cleaned data by handling missing values, duplicates, and incorrect data types.
+- Merged order and return datasets using a common key (e.g., Sub Order Number).
+- Calculated key metrics such as total orders, returns, return rate, and total revenue.
+- Used matplotlib to visualize trends by month, product performance, and state-wise orders.
+- Exported cleaned data to Excel for reporting and dashboard creation.
+- Built an interactive Excel dashboard to present insights effectively.
+
